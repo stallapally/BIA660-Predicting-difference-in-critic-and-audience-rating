@@ -1,4 +1,4 @@
-"Regression Machine Learning model- Predicting-difference-in-critic-and-audience-rating" 
+"Regression Machine Learning model- Predicting-difference-in-critic-and-audience-rating before movie hitting theatre" 
 
 1. getMovieInfo.py- Script to scrape each movie html from www.rottentomatoes.com using their genres.
 2. featureExtraction.py- Script to scrape features from each html and write it to csv file
