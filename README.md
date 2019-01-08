@@ -1,5 +1,8 @@
 "Regression Machine Learning model- Predicting-difference-in-critic-and-audience-rating before movie hitting theatre" 
 
+Tools: Python
+Project: Data is scrapped from www.rottentomatoes.com using selenium. Built models to predict difference between user and critic rating before movie hitting theatre. To convert artist names to machine understandable, scraped artist wins, nominations from www.imdb.com
+
 1. getMovieInfo.py- Script to scrape each movie html from www.rottentomatoes.com using their genres.
 2. featureExtraction.py- Script to scrape features from each html and write it to csv file
 3. imdb_awd.py- to categorize actors, directors and writers into columns
